@@ -1,0 +1,10 @@
+.text-center {
+  width: auto;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(65, 11, 115);
+  border-radius: 10px;
+}
+
+
